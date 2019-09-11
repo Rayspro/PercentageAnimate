@@ -1,0 +1,2 @@
+include ':app', ':animate_percentage'
+rootProject.name='PercentageAnimate'
